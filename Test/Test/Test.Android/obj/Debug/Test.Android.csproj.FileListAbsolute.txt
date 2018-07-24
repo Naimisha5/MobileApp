@@ -203,7 +203,6 @@ C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksr
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\bin\Debug\Test.Android.dll
-C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\Test.pdb
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\Test.Android.dll.mdb
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Naimisha.G\source\repos\Xamarin\Test\Test\Test.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
