@@ -763,11 +763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naimisha.G\\Desktop\\Xamarin\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Naimisha.G\\source\\repos\\Xamarin\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "projectName": "Test.Android",
-      "projectPath": "C:\\Users\\Naimisha.G\\Desktop\\Xamarin\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectPath": "C:\\Users\\Naimisha.G\\source\\repos\\Xamarin\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "packagesPath": "C:\\Users\\Naimisha.G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naimisha.G\\Desktop\\Xamarin\\Test\\Test\\Test.Android\\obj\\",
+      "outputPath": "C:\\Users\\Naimisha.G\\source\\repos\\Xamarin\\Test\\Test\\Test.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -784,8 +784,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Naimisha.G\\Desktop\\Xamarin\\Test\\Test\\Test\\Test.csproj": {
-              "projectPath": "C:\\Users\\Naimisha.G\\Desktop\\Xamarin\\Test\\Test\\Test\\Test.csproj"
+            "C:\\Users\\Naimisha.G\\source\\repos\\Xamarin\\Test\\Test\\Test\\Test.csproj": {
+              "projectPath": "C:\\Users\\Naimisha.G\\source\\repos\\Xamarin\\Test\\Test\\Test\\Test.csproj"
             }
           }
         }
